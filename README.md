@@ -51,4 +51,5 @@ README - Model Poisoning Attacks
 -----------------------------------------------------------------------------------------------------------------
 
 Model_Poisoning_Attack.ipynb : Model poisoning attack process based on standard federated learning with different type of aggregation.
- The detailed implementation is in the file with detailed instruction and explanation.
+ The detailed implementation is in the file with detailed instruction and explanation.  
+ 
